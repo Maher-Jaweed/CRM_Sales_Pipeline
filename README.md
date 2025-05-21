@@ -5,7 +5,7 @@ The following data is from a B2B sales pipeline data from a ficticious company t
 I wanted to explore the following questions:
 1. How is each sales team performing compared to the rest?
 2. Are any sales agents lagging behind?
-3. Do any products have better win rates?
+3. What products generate the most revenue and sales? 
 
 Question 1:
 
@@ -16,6 +16,7 @@ Question 2:
 Compared to other agents, Niesha Huffines, Wilbunr Farren, and Violet Mclelland, are underperfomring this quarter. More data is needed to understand if underperformance can be explained by a weak quarter. 
 
 Question 3: 
+
 The highest revenue generating product is the GTXPro, while the highest sold product is the GTX Basic. 
 
 
